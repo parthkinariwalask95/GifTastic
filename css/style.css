@@ -1,0 +1,44 @@
+body{
+    background-color:black;
+}
+.a1{
+
+    height: 100px;
+    background-color:tomato;
+    box-shadow: 10px 10px 8px 10px blueviolet;
+    padding: 10px;
+}
+#b2{
+    font-size: 30px;
+    color: green;
+    box-shadow: 10px 10px 8px 10px blueviolet;
+}
+.img{
+    width: 200px;
+}
+.j1{
+    height: 550px;
+    width:750px;
+    background-color: black;
+
+}
+.j2{
+    height: 250px;
+    width: 500px;
+    background-color: tomato;
+    box-shadow: 10px 10px 8px 10px blueviolet;
+
+}
+.text{
+    font-size: 22px;
+    color: blanchedalmond;
+}
+.textbox{
+    font-size: 22px;
+}
+.btn1{
+    color: black;
+    background-color:greenyellow;;
+    font-size: 20px;
+
+}
